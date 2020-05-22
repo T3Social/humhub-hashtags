@@ -1,0 +1,12 @@
+{
+    "id": "hashtags",
+    "name": "Hashtags",
+    "description": "Adds an "#Hashtag" feature",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    },
+    "screenshots": ["assets/screen1.jpg"]
+}
